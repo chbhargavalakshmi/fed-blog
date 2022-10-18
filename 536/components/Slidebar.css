@@ -1,0 +1,15 @@
+aside {
+  float: right;
+  flex: 1;
+  scroll-padding-block-end: 20px;
+  background-color: rgb(58, 59, 63);
+  overflow: hidden;
+}
+.sidebar-nav-item {
+  height: 133px;
+  margin-top: 70%;
+  /* overflow: hidden; */
+}
+.sidebar-items {
+  color: white;
+}

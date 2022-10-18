@@ -1,0 +1,36 @@
+.logo {
+  float: left;
+  display: block;
+  font-weight: 700;
+}
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+header {
+  background-color: #303030;
+  padding: 30px 3px 30px 4px;
+  margin-top: 0;
+  margin-right: 0;
+  /* box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3); */
+}
+
+.nav-menu ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+.header-nav-item {
+  font-size: 15px;
+  padding-left: 100px;
+  font-family: cursive;
+}
+
+@media screen and (max-width: 767px) {
+  .nav-menu {
+    width: 100%;
+    margin-bottom: 30px;
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,17 @@
+.main-content {
+  text-align: left;
+  line-height: 2rem;
+  margin: 20px;
+  margin-right: 20%;
+}
+.heading {
+  font-weight: lighter;
+  color: purple;
+}
+.Note {
+  background-color: rgb(247, 244, 90);
+  padding: 10px 40px;
+}
+h1 {
+  margin: 40px;
+}
